@@ -1,8 +1,6 @@
 # librbary-retry
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.librbary/librbary-retry/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/io.github.librbary/librbary-retry)
-
-
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.librbary/librbary-retry.svg?style=plastic)](https://search.maven.org/artifact/io.github.librbary/librbary-retry)
 ##### Overview
 
 librbary-retry is a light-weight library that enables retry mechanism for customized methods.
