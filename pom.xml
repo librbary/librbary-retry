@@ -16,7 +16,7 @@
 
 	<name>librbary-retry</name>
 	<description>librbary-retry is a light-weight library that enables retry mechanism for customized methods.</description>
-	<url>https://github.com/chandan13tiwari/poc-retry</url>
+	<url>https://github.com/librbary/librbary-retry</url>
 
 	<licenses>
 		<license>
@@ -227,15 +227,15 @@
 		<developer>
 			<name>Chandan Tiwari</name>
 			<email>proofofconceptcode@gmail.com</email>
-			<organization>io.github.chandan13tiwari</organization>
-			<organizationUrl>https://github.com/chandan13tiwari</organizationUrl>
+			<organization>io.github.librbary</organization>
+			<organizationUrl>https://github.com/librbary</organizationUrl>
 		</developer>
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/chandan13tiwari/poc-retry.git</connection>
-		<developerConnection>scm:git:ssh://github.com:chandan13tiwari/poc-retry.git</developerConnection>
-		<url>http://github.com/chandan13tiwari/poc-retry</url>
+		<connection>scm:git:git://github.com/librbary/librbary-retry.git</connection>
+		<developerConnection>scm:git:ssh://github.com:librbary/librbary-retry.git</developerConnection>
+		<url>https://github.com/librbary/librbary-retry</url>
 	</scm>
 
 </project>
